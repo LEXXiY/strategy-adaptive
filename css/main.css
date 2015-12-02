@@ -1,0 +1,41 @@
+
+img {
+	margin-bottom: 15px;
+}
+
+header,
+footer {
+    background: #131C23;
+    color: #fff;
+    padding-top: 30px;
+}
+aside {
+	margin-top: 30px;
+}
+
+section h2 {
+	margin-bottom: 15px;
+}
+
+article:hover {
+	outline: 1px solid #34ABFF;
+}
+
+blockquote footer {
+	background: transparent;
+	color: black;
+}
+.date {
+	color: #ccc;
+	margin-bottom: -20px;
+}
+.top-menu {
+	min-height: 70px;
+}
+
+.tab-pane ul li {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+
